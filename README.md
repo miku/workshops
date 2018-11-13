@@ -29,7 +29,7 @@ keeping track of a few things, in rough chronological order (with
 
 ## Complex Workflows with Luigi (Python)
 
-* LPUG -- Nov 10, 2015
+* [LPUG](https://www.meetup.com/Leipzig-Python-User-Group/) -- Nov 10, 2015
 * [https://github.com/miku/lpug-luigi](https://github.com/miku/lpug-luigi)
 * Thanks to [kampfschlaefer](https://github.com/kampfschlaefer) for introducing
   me to [Nix](https://github.com/kampfschlaefer/nix-topartists), the [purely
@@ -39,7 +39,7 @@ functional package manager](https://nixos.org/nix/).
 
 ## Neural nets intro (Python)
 
-* At Leipzig Python User Group Meeting at Basislager, 2016-11-08, 7PM CET, with
+* At [Leipzig Python User Group](https://www.meetup.com/Leipzig-Python-User-Group/) Meeting at [Basislager](https://www.basislager.co/), 2016-11-08, 7PM CET, with
   [Philipp](https://github.com/philipphanemann)
 * [https://github.com/miku/nntour](https://github.com/miku/nntour)
 
@@ -47,7 +47,7 @@ functional package manager](https://nixos.org/nix/).
 
 ## Hands-On Lab: Build Your Own Index (data)
 
-* three-hour lab at *Deutscher Bibliothekartag*, 2017-06-02, Frankfurt am Main, with [Tracy](https://twitter.com/nabatz)
+* three-hour lab at [*Deutscher Bibliothekartag*](https://de.wikipedia.org/wiki/Bibliothekartag#Bibliothekartag), 2017-06-02, Frankfurt am Main, with [Tracy](https://twitter.com/nabatz)
 * [https://github.com/miku/siskin/blob/master/docs/btag-2017/btag-2017.md](https://github.com/miku/siskin/blob/master/docs/btag-2017/btag-2017.md)
 
 ![](images/ai5.png)
@@ -56,22 +56,23 @@ functional package manager](https://nixos.org/nix/).
 
 A short tour through PyTorch.
 
-* At Leipzig Python User Group, 2018-02-13 19:00 at Basislager.
+* At [Leipzig Python User Group](https://www.meetup.com/Leipzig-Python-User-Group/), 2018-02-13 19:00 at [Basislager](https://www.basislager.co/).
 * [https://github.com/miku/pytorch-tour](https://github.com/miku/pytorch-tour)
 
 ![](images/autograd.png)
 
 ## Exploring readers and writers (Go)
 
-* Golab.io, January 21, 2017, Prato (IT)
+* [Golab.io](https://www.golab.io/), January 21, 2017, Prato (IT)
 * [https://github.com/miku/exploreio](https://github.com/miku/exploreio)
 
 ![](images/exploreio.png)
 
 ## Hello Golang (Go)
 
-* Material presented at jenadevs meetup 008, June 8, 2017 18:00 CEST at
-  Friedrich-Schiller-Universität Jena.
+* Material presented at [jenadevs
+  meetup](https://www.meetup.com/de-DE/jenadevs/) 008, June 8, 2017 18:00 CEST
+at [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/).
 * [https://github.com/miku/hellogolang](https://github.com/miku/hellogolang)
 
 ![](images/jenadevs.png)
@@ -86,7 +87,7 @@ A short tour through PyTorch.
 
 ## Hello Golang (Go)
 
-* 2018-10-12, 09:00-17:00, at [devopenspace](https://devopenspace.de/), Basislager, Leipzig
+* 2018-10-12, 09:00-17:00, at [devopenspace](https://devopenspace.de/), [Basislager](https://www.basislager.co/), Leipzig
 * A one day introductory Golang workshop, exploring Go through the [Go tour](https://tour.golang.org/)
 * [https://github.com/miku/golangintro](https://github.com/miku/golangintro)
 * [binpic](https://github.com/miku/binpic) was inspired by one of the many
@@ -96,7 +97,7 @@ A short tour through PyTorch.
 
 ## Turn data into Go struct (Go)
 
-* Lightning talk at Golab 2018, 2018-10-22, 18:00
+* Lightning talk at [Golab](https://www.golab.io/) 2018, 2018-10-22, 18:00
 * [https://gist.github.com/miku/39e4273d15abfd7e4297071338da3349](https://gist.github.com/miku/39e4273d15abfd7e4297071338da3349)
 
 ![](images/99.png)
