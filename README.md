@@ -62,6 +62,8 @@ A short tour through PyTorch.
 * Lightning talk at Golab 2018, 2018-10-22, 18:00
 * [https://gist.github.com/miku/39e4273d15abfd7e4297071338da3349](https://gist.github.com/miku/39e4273d15abfd7e4297071338da3349)
 
+![](images/99.png)
+
 ## Machine Learning with Go (Go)
 
 * A short tour through ML libraries in Go, [golab 2018](https://golab.io), 2018-10-23, 10:30-12:00, Florence (IT)
