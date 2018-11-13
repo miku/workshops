@@ -4,12 +4,14 @@ Over the years I prepared various presentations and workshops, with their
 content scattered over gists and repositories. This is merely a metarepo
 keeping track of a few things, in rough chronological order (with
 [some](https://github.com/miku/mdma-slides),
-[things](https://github.com/miku/zeromq-slides), [left
-out](https://github.com/miku/elasticsearch-slides)).
+[things](https://github.com/miku/zeromq-slides),
+[left](https://github.com/miku/elasticsearch-slides),
+[out](https://github.com/miku/siskin/blob/master/docs/ai-overview/slides.md)).
 
 * [Cloning isn't just for sheeps and galactic empires (git)](https://github.com/miku/workshops#cloning-isnt-just-for-sheeps-and-galactic-empires-git)
 * [Complex workflows with Luigi (Python)](https://github.com/miku/meta#complex-workflows-with-luigi-python)
 * [Neural Nets intro (Python)](https://github.com/miku/meta#neural-nets-intro-python)
+* [Hands-On Lab: Build your own index](https://github.com/miku/siskin/blob/master/docs/btag-2017/btag-2017.md)
 * [PyTorch Tour (Python)](https://github.com/miku/meta#pytorch-tour-python)
 * [Exploring Readers and Writers (Go)](https://github.com/miku/meta#exploring-readers-and-writers-go)
 * [Hello Golang (Go)](https://github.com/miku/meta#hello-golang-go)
@@ -37,10 +39,18 @@ functional package manager](https://nixos.org/nix/).
 
 ## Neural nets intro (Python)
 
-* At Leipzig Python User Group Meeting at Basislager, 2016-11-08, 7PM CET.
+* At Leipzig Python User Group Meeting at Basislager, 2016-11-08, 7PM CET, with
+  [Philipp](https://github.com/philipphanemann)
 * [https://github.com/miku/nntour](https://github.com/miku/nntour)
 
 ![](images/nntour.png)
+
+## Hands-On Lab: Build Your Own Index (data)
+
+* three-hour lab at *Deutscher Bibliothekartag*, 2017-06-02, Frankfurt am Main, with [Tracy](https://twitter.com/nabatz)
+* [https://github.com/miku/siskin/blob/master/docs/btag-2017/btag-2017.md](https://github.com/miku/siskin/blob/master/docs/btag-2017/btag-2017.md)
+
+![](images/ai5.png)
 
 ## PyTorch tour (Python)
 
@@ -60,14 +70,16 @@ A short tour through PyTorch.
 
 ## Hello Golang (Go)
 
-* Material presented at jenadevs meetup 008, June 8, 2017 18:00 CEST at Friedrich-Schiller-Universität Jena.
+* Material presented at jenadevs meetup 008, June 8, 2017 18:00 CEST at
+  Friedrich-Schiller-Universität Jena.
 * [https://github.com/miku/hellogolang](https://github.com/miku/hellogolang)
 
 ![](images/jenadevs.png)
 
 ## Data Processing 101 with Python
 
-* 2018-04-15 14:00-15:00, Input session for [Coding da Vinci Ost 2018](https://codingdavinci.de/events/ost/)
+* 2018-04-15 14:00-15:00, Input session for [Coding da Vinci Ost
+  2018](https://codingdavinci.de/events/ost/)
 * [https://github.com/miku/sundaypython](https://github.com/miku/sundaypython)
 
 ![](images/cdvost.png)
@@ -77,7 +89,8 @@ A short tour through PyTorch.
 * 2018-10-12, 09:00-17:00, at [devopenspace](https://devopenspace.de/), Basislager, Leipzig
 * A one day introductory Golang workshop, exploring Go through the [Go tour](https://tour.golang.org/)
 * [https://github.com/miku/golangintro](https://github.com/miku/golangintro)
-* [binpic](https://github.com/miku/binpic) was inspired by one of the many interesting conversations at devopenspace
+* [binpic](https://github.com/miku/binpic) was inspired by one of the many
+  interesting conversations at devopenspace
 
 ![](images/hellogolang.png)
 
@@ -94,3 +107,4 @@ A short tour through PyTorch.
 * [https://github.com/miku/mlgo](https://github.com/miku/mlgo)
 
 ![](images/117570.png)
+
