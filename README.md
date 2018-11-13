@@ -27,6 +27,13 @@ A short tour through PyTorch.
 
 ## Hello Golang (Go)
 
+* Material presented at jenadevs meetup 008, June 8, 2017 18:00 CEST at Friedrich-Schiller-Universität Jena.
+* [https://github.com/miku/hellogolang](https://github.com/miku/hellogolang)
+
+![](images/jenadevs.png)
+
+## Hello Golang (Go)
+
 * 2018-10-12, 09:00-17:00, at [devopenspace](https://devopenspace.de/), Basislager, Leipzig
 * A one day introductory Golang workshop, exploring Go through the [Go tour](https://tour.golang.org/)
 * [https://github.com/miku/golangintro](https://github.com/miku/golangintro)
