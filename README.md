@@ -2,7 +2,10 @@
 
 Over the years I prepared various presentations and workshops, with their
 content scattered over gists and repositories. This is merely a metarepo
-keeping track of a few things.
+keeping track of a few things, in rough chronological order (with
+[some](https://github.com/miku/mdma-slides),
+[things](https://github.com/miku/zeromq-slides), [left
+out](https://github.com/miku/elasticsearch-slides)).
 
 * [Complex workflows with Luigi (Python)](https://github.com/miku/meta#complex-workflows-with-luigi-python)
 * [Neural Nets intro (Python)](https://github.com/miku/meta#neural-nets-intro-python)
