@@ -1,6 +1,8 @@
-# meta
+# Workshops and Talks
 
-A level of indirection.
+Over the years I prepared various presentations and workshops, with their
+content scattered over gists and repositories. This is merely a metarepo
+keeping track of a few things.
 
 * [Complex workflows with Luigi (Python)](https://github.com/miku/meta#complex-workflows-with-luigi-python)
 * [Neural Nets intro (Python)](https://github.com/miku/meta#neural-nets-intro-python)
