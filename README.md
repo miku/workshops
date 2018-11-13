@@ -9,16 +9,16 @@ keeping track of a few things, in rough chronological order (with
 [out](https://github.com/miku/siskin/blob/master/docs/ai-overview/slides.md)).
 
 * [Cloning isn't just for sheeps and galactic empires (git)](https://github.com/miku/workshops#cloning-isnt-just-for-sheeps-and-galactic-empires-git)
-* [Complex workflows with Luigi (Python)](https://github.com/miku/meta#complex-workflows-with-luigi-python)
-* [Neural Nets intro (Python)](https://github.com/miku/meta#neural-nets-intro-python)
-* [Exploring Readers and Writers (Go)](https://github.com/miku/meta#exploring-readers-and-writers-go)
+* [Complex workflows with Luigi (Python)](https://github.com/miku/workshops#complex-workflows-with-luigi-python)
+* [Neural Nets intro (Python)](https://github.com/miku/workshops#neural-nets-intro-python)
+* [Exploring Readers and Writers (Go)](https://github.com/miku/workshops#exploring-readers-and-writers-go)
 * [Hands-On Lab: Build Your Own Index (data)](https://github.com/miku/workshops#hands-on-lab-build-your-own-index-data)
-* [Hello Golang (Go)](https://github.com/miku/meta#hello-golang-go)
-* [PyTorch Tour (Python)](https://github.com/miku/meta#pytorch-tour-python)
-* [Data Processing 101 (Python)](https://github.com/miku/meta#data-processing-101-with-python)
-* [Hello Golang One Day Tour (Go)](https://github.com/miku/meta#hello-golang-go-1)
-* [Turn data into Go structs (Go)](https://github.com/miku/meta#turn-data-into-go-struct-go)
-* [Machine Learning with Go (Go)](https://github.com/miku/meta#machine-learning-with-go-go)
+* [Hello Golang (Go)](https://github.com/miku/workshops#hello-golang-go)
+* [PyTorch Tour (Python)](https://github.com/miku/workshops#pytorch-tour-python)
+* [Data Processing 101 (Python)](https://github.com/miku/workshops#data-processing-101-with-python)
+* [Hello Golang One Day Tour (Go)](https://github.com/miku/workshops#hello-golang-go-1)
+* [Turn data into Go structs (Go)](https://github.com/miku/workshops#turn-data-into-go-struct-go)
+* [Machine Learning with Go (Go)](https://github.com/miku/workshops#machine-learning-with-go-go)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
