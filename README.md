@@ -7,7 +7,7 @@ keeping track of a few things, in rough chronological order (with
 [things](https://github.com/miku/zeromq-slides), [left
 out](https://github.com/miku/elasticsearch-slides)).
 
-* [Cloning isn't just for sheeps and galactic empires (git)](..)
+* [Cloning isn't just for sheeps and galactic empires (git)](https://github.com/miku/workshops#cloning-isnt-just-for-sheeps-and-galactic-empires-git)
 * [Complex workflows with Luigi (Python)](https://github.com/miku/meta#complex-workflows-with-luigi-python)
 * [Neural Nets intro (Python)](https://github.com/miku/meta#neural-nets-intro-python)
 * [PyTorch Tour (Python)](https://github.com/miku/meta#pytorch-tour-python)
@@ -21,7 +21,9 @@ out](https://github.com/miku/elasticsearch-slides)).
 ## Cloning isn't just for sheeps and galactic empires (git)
 
 * 2014-12-16, internal presentation
-* [](https://gist.github.com/miku/430b9ea1b4f18f7dc88a)
+* [https://gist.github.com/miku/430b9ea1b4f18f7dc88a](https://gist.github.com/miku/430b9ea1b4f18f7dc88a)
+
+![](images/git.png)
 
 ## Complex Workflows with Luigi (Python)
 
