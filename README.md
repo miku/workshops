@@ -24,3 +24,11 @@ A short tour through PyTorch.
 * [https://github.com/miku/exploreio](https://github.com/miku/exploreio)
 
 ![](images/exploreio.png)
+
+## Hello Golang (Go)
+
+* 2018-10-12, 09:00-17:00, at [devopenspace](https://devopenspace.de/), Basislager, Leipzig
+* A one day introductory Golang workshop, exploring Go through the [Go tour](https://tour.golang.org/)
+* [https://github.com/miku/golangintro](https://github.com/miku/golangintro)
+
+![](images/hellogolang.png)
