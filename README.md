@@ -11,7 +11,7 @@ keeping track of a few things, in rough chronological order (with
 * [Cloning isn't just for sheeps and galactic empires (git)](https://github.com/miku/workshops#cloning-isnt-just-for-sheeps-and-galactic-empires-git)
 * [Complex workflows with Luigi (Python)](https://github.com/miku/meta#complex-workflows-with-luigi-python)
 * [Neural Nets intro (Python)](https://github.com/miku/meta#neural-nets-intro-python)
-* [Hands-On Lab: Build your own index](https://github.com/miku/siskin/blob/master/docs/btag-2017/btag-2017.md)
+* [Hands-On Lab: Build Your Own Index (data)](https://github.com/miku/workshops#hands-on-lab-build-your-own-index-data)
 * [PyTorch Tour (Python)](https://github.com/miku/meta#pytorch-tour-python)
 * [Exploring Readers and Writers (Go)](https://github.com/miku/meta#exploring-readers-and-writers-go)
 * [Hello Golang (Go)](https://github.com/miku/meta#hello-golang-go)
