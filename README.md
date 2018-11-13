@@ -20,12 +20,14 @@ keeping track of a few things, in rough chronological order (with
 * [Turn data into Go structs (Go)](https://github.com/miku/meta#turn-data-into-go-struct-go)
 * [Machine Learning with Go (Go)](https://github.com/miku/meta#machine-learning-with-go-go)
 
+
 ## Cloning isn't just for sheeps and galactic empires (git)
 
 * 2014-12-16, internal presentation
 * [https://gist.github.com/miku/430b9ea1b4f18f7dc88a](https://gist.github.com/miku/430b9ea1b4f18f7dc88a)
 
 ![](images/git.png)
+
 
 ## Complex Workflows with Luigi (Python)
 
@@ -37,13 +39,25 @@ functional package manager](https://nixos.org/nix/).
 
 ![](images/marc.png)
 
+
 ## Neural nets intro (Python)
 
-* At [Leipzig Python User Group](https://www.meetup.com/Leipzig-Python-User-Group/) Meeting at [Basislager](https://www.basislager.co/), 2016-11-08, 7PM CET, with
-  [Philipp](https://github.com/philipphanemann)
+* At [Leipzig Python User
+  Group](https://www.meetup.com/Leipzig-Python-User-Group/) Meeting at
+[Basislager](https://www.basislager.co/), 2016-11-08, 7PM CET, with
+[Philipp](https://github.com/philipphanemann)
 * [https://github.com/miku/nntour](https://github.com/miku/nntour)
 
 ![](images/nntour.png)
+
+
+## Exploring readers and writers (Go)
+
+* [Golab.io](https://www.golab.io/), January 21, 2017, Prato (IT)
+* [https://github.com/miku/exploreio](https://github.com/miku/exploreio)
+
+![](images/exploreio.png)
+
 
 ## Hands-On Lab: Build Your Own Index (data)
 
@@ -52,21 +66,6 @@ functional package manager](https://nixos.org/nix/).
 
 ![](images/ai5.png)
 
-## PyTorch tour (Python)
-
-A short tour through PyTorch.
-
-* At [Leipzig Python User Group](https://www.meetup.com/Leipzig-Python-User-Group/), 2018-02-13 19:00 at [Basislager](https://www.basislager.co/).
-* [https://github.com/miku/pytorch-tour](https://github.com/miku/pytorch-tour)
-
-![](images/autograd.png)
-
-## Exploring readers and writers (Go)
-
-* [Golab.io](https://www.golab.io/), January 21, 2017, Prato (IT)
-* [https://github.com/miku/exploreio](https://github.com/miku/exploreio)
-
-![](images/exploreio.png)
 
 ## Hello Golang (Go)
 
@@ -77,6 +76,17 @@ at [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/).
 
 ![](images/jenadevs.png)
 
+
+## PyTorch tour (Python)
+
+A short tour through PyTorch.
+
+* At [Leipzig Python User Group](https://www.meetup.com/Leipzig-Python-User-Group/), 2018-02-13 19:00 at [Basislager](https://www.basislager.co/).
+* [https://github.com/miku/pytorch-tour](https://github.com/miku/pytorch-tour)
+
+![](images/autograd.png)
+
+
 ## Data Processing 101 with Python
 
 * 2018-04-15 14:00-15:00, Input session for [Coding da Vinci Ost
@@ -84,6 +94,7 @@ at [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/).
 * [https://github.com/miku/sundaypython](https://github.com/miku/sundaypython)
 
 ![](images/cdvost.png)
+
 
 ## Hello Golang (Go)
 
@@ -95,12 +106,14 @@ at [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/).
 
 ![](images/hellogolang.png)
 
+
 ## Turn data into Go struct (Go)
 
 * Lightning talk at [Golab](https://www.golab.io/) 2018, 2018-10-22, 18:00
 * [https://gist.github.com/miku/39e4273d15abfd7e4297071338da3349](https://gist.github.com/miku/39e4273d15abfd7e4297071338da3349)
 
 ![](images/99.png)
+
 
 ## Machine Learning with Go (Go)
 
