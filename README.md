@@ -59,7 +59,7 @@ A short tour through PyTorch.
 
 ## Data Processing 101 with Python
 
-* Input session for [Coding da Vinci Ost 2018](https://codingdavinci.de/events/ost/)
+* 2018-04-15 14:00-15:00, Input session for [Coding da Vinci Ost 2018](https://codingdavinci.de/events/ost/)
 * [https://github.com/miku/sundaypython](https://github.com/miku/sundaypython)
 
 ![](images/cdvost.png)
