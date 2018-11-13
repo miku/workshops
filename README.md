@@ -6,7 +6,7 @@ keeping track of a few things.
 
 * [Complex workflows with Luigi (Python)](https://github.com/miku/meta#complex-workflows-with-luigi-python)
 * [Neural Nets intro (Python)](https://github.com/miku/meta#neural-nets-intro-python)
-* [PyTorch Tour (Python](https://github.com/miku/meta#pytorch-tour-python)
+* [PyTorch Tour (Python)](https://github.com/miku/meta#pytorch-tour-python)
 * [Exploring Readers and Writers (Go)](https://github.com/miku/meta#exploring-readers-and-writers-go)
 * [Hello Golang (Go)](https://github.com/miku/meta#hello-golang-go)
 * [Data Processing 101 (Python)](https://github.com/miku/meta#data-processing-101-with-python)
@@ -66,6 +66,7 @@ A short tour through PyTorch.
 * 2018-10-12, 09:00-17:00, at [devopenspace](https://devopenspace.de/), Basislager, Leipzig
 * A one day introductory Golang workshop, exploring Go through the [Go tour](https://tour.golang.org/)
 * [https://github.com/miku/golangintro](https://github.com/miku/golangintro)
+* [binpic](https://github.com/miku/binpic) was inspired by one of the many interesting conversations at devopenspace
 
 ![](images/hellogolang.png)
 
