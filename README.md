@@ -42,6 +42,13 @@ A short tour through PyTorch.
 
 ![](images/jenadevs.png)
 
+## Data Processing 101 with Python
+
+* Input session for [Coding da Vinci Ost 2018](https://codingdavinci.de/events/ost/)
+* [https://github.com/miku/sundaypython](https://github.com/miku/sundaypython)
+
+![](images/cdvost.png)
+
 ## Hello Golang (Go)
 
 * 2018-10-12, 09:00-17:00, at [devopenspace](https://devopenspace.de/), Basislager, Leipzig
