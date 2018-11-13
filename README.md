@@ -2,6 +2,16 @@
 
 A level of indirection.
 
+* [Complex workflows with Luigi (Python)](https://github.com/miku/meta#complex-workflows-with-luigi-python)
+* [Neural Nets intro (Python)](https://github.com/miku/meta#neural-nets-intro-python)
+* [PyTorch Tour (Python](https://github.com/miku/meta#pytorch-tour-python)
+* [Exploring Readers and Writers (Go)](https://github.com/miku/meta#exploring-readers-and-writers-go)
+* [Hello Golang (Go)](https://github.com/miku/meta#hello-golang-go)
+* [Data Processing 101 (Python)](https://github.com/miku/meta#data-processing-101-with-python)
+* [Hello Golang One Day Tour (Go)](https://github.com/miku/meta#hello-golang-go-1)
+* [Turn data into Go structs (Go)](https://github.com/miku/meta#turn-data-into-go-struct-go)
+* [Machine Learning with Go (Go)](https://github.com/miku/meta#machine-learning-with-go-go)
+
 ## Complex Workflows with Luigi (Python)
 
 * LPUG -- Nov 10, 2015
