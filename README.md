@@ -19,6 +19,8 @@ keeping track of a few things, in rough chronological order (with
 * [Hello Golang One Day Tour (Go)](https://github.com/miku/workshops#hello-golang-go-1)
 * [Turn data into Go structs (Go)](https://github.com/miku/workshops#turn-data-into-go-struct-go)
 * [Machine Learning with Go (Go)](https://github.com/miku/workshops#machine-learning-with-go-go)
+* [Packaging Python Applications (Python)](https://github.com/miku/workshops#packaging-python-python)
+* [Batch data processing with luigi (Python)](https://github.com/miku/workshops#batch-data-processing-with-luigi-python)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -127,8 +129,12 @@ A short tour through PyTorch.
 * Dists, zips, debs and docker, 2018-11-17 at PyconBalkan, Belgrade (SRB)
 * [https://github.com/miku/packpy](https://github.com/miku/packpy)
 
+![](images/gradient.png)
+
 ## Batch data processing with luigi (Python)
 
 * 2018-11-17, 17:00-18:30 at PyConBalkan, Belgrade (SRB)
 * [https://github.com/miku/batchdata](https://github.com/miku/batchdata)
+
+![](images/batch.png)
 
