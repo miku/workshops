@@ -1,8 +1,8 @@
 # Workshops and Talks
 
-Over the years I prepared various presentations and workshops, with their
-content scattered over gists and repositories. This is merely a metarepo
-keeping track of a few things, in rough chronological order (with
+Over time I prepared various presentations and workshops, with their content
+scattered over gists and repositories. This is merely a metarepo keeping track
+of a few things, in rough chronological order (with
 [some](https://github.com/miku/mdma-slides),
 [things](https://github.com/miku/zeromq-slides),
 [left](https://github.com/miku/elasticsearch-slides),
