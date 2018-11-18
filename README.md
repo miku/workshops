@@ -122,3 +122,13 @@ A short tour through PyTorch.
 
 ![](images/117570.png)
 
+## Packaging Python (Python)
+
+* Dists, zips, debs and docker, 2018-11-17 at PyconBalkan, Belgrade (SRB)
+* [https://github.com/miku/packpy](https://github.com/miku/packpy)
+
+## Batch data processing with luigi (Python)
+
+* 2018-11-17, 17:00-18:30 at PyConBalkan, Belgrade (SRB)
+* [https://github.com/miku/batchdata](https://github.com/miku/batchdata)
+
