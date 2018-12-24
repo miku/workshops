@@ -20,7 +20,7 @@ of a few things, in rough chronological order (with
 * [Turn data into Go structs (Go)](https://github.com/miku/workshops#turn-data-into-go-struct-go)
 * [Machine Learning with Go (Go)](https://github.com/miku/workshops#machine-learning-with-go-go)
 * [Packaging Python Applications (Python)](https://github.com/miku/workshops#packaging-python-python)
-* [Batch data processing with luigi (Python)](https://github.com/miku/workshops#batch-data-processing-with-luigi-python)
+* [Batch data processing with Luigi (Python)](https://github.com/miku/workshops#batch-data-processing-with-luigi-python)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -131,7 +131,7 @@ A short tour through PyTorch.
 
 ![](images/gradient.png)
 
-## Batch data processing with luigi (Python)
+## Batch data processing with Luigi (Python)
 
 * 2018-11-17, 17:00-18:30 at PyConBalkan, Belgrade (SRB)
 * [https://github.com/miku/batchdata](https://github.com/miku/batchdata)
