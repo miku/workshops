@@ -21,6 +21,7 @@ of a few things, in rough chronological order (with
 * [Machine Learning with Go (Go)](https://github.com/miku/workshops#machine-learning-with-go-go)
 * [Packaging Python Applications (Python)](https://github.com/miku/workshops#packaging-python-python)
 * [Batch data processing with Luigi (Python)](https://github.com/miku/workshops#batch-data-processing-with-luigi-python)
+* [Git bits (git)](https://github.com/miku/gitbits)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -137,4 +138,12 @@ A short tour through PyTorch.
 * [https://github.com/miku/batchdata](https://github.com/miku/batchdata)
 
 ![](images/batch.png)
+
+## Git bits (git)
+
+* 2019-02-25, 12:30-13:30 at UBL
+* [https://github.com/miku/gitbits](https://github.com/miku/gitbits)
+
+![](images/gitbits.png)
+
 
