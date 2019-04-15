@@ -22,7 +22,7 @@ of a few things, in rough chronological order (with
 * [Packaging Python Applications (Python)](https://github.com/miku/workshops#packaging-python-python)
 * [Batch data processing with Luigi (Python)](https://github.com/miku/workshops#batch-data-processing-with-luigi-python)
 * [Git bits (git)](https://github.com/miku/workshops#git-bits-git)
-* [Intro to Go modules](https://github.com/miku/workshops#intro-to-go-modules)
+* [Intro to Go modules (Go)](https://github.com/miku/workshops#intro-to-go-modules)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
