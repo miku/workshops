@@ -22,6 +22,7 @@ of a few things, in rough chronological order (with
 * [Packaging Python Applications (Python)](https://github.com/miku/workshops#packaging-python-python)
 * [Batch data processing with Luigi (Python)](https://github.com/miku/workshops#batch-data-processing-with-luigi-python)
 * [Git bits (git)](https://github.com/miku/workshops#git-bits-git)
+* [Intro to Go modules](https://github.com/miku/workshops#intro-to-go-modules)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -146,4 +147,11 @@ A short tour through PyTorch.
 
 ![](images/gitbits.png)
 
+
+## Intro to Go modules
+
+* 2019-04-15, 19:00 at Golang and Cloud Native User Group, Leipzig
+* [https://github.com/miku/gomodintro](https://github.com/miku/gomodintro)
+
+![](images/version-select-list.png)
 
