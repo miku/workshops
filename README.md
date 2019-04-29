@@ -26,12 +26,6 @@ of a few things, in rough chronological order (with
 * [Go in 6 hours (Go)](https://github.com/miku/workshops#go-in-6-hours)
 * [A short tour through net and net/http (Go)](https://github.com/miku/workshops#a-short-tour-through-net-and-net-http)
 
-## A short tour through net and net/http
-
-* 2019-04-28, 10:00 at Spartakiade 2019, Berlin
-* [https://github.com/miku/golangnetpkg](https://github.com/miku/golangnetpkg)
-
-
 ## Cloning isn't just for sheeps and galactic empires (git)
 
 * 2014-12-16, internal presentation
