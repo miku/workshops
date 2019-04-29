@@ -23,6 +23,13 @@ of a few things, in rough chronological order (with
 * [Batch data processing with Luigi (Python)](https://github.com/miku/workshops#batch-data-processing-with-luigi-python)
 * [Git bits (git)](https://github.com/miku/workshops#git-bits-git)
 * [Intro to Go modules (Go)](https://github.com/miku/workshops#intro-to-go-modules)
+* [Go in 6 hours (Go)](https://github.com/miku/workshops#go-in-6-hours)
+* [A short tour through net and net/http (Go)](https://github.com/miku/workshops#a-short-tour-through-net-and-net-http)
+
+## A short tour through net and net/http
+
+* 2019-04-28, 10:00 at Spartakiade 2019, Berlin
+* [https://github.com/miku/golangnetpkg](https://github.com/miku/golangnetpkg)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -155,3 +162,16 @@ A short tour through PyTorch.
 
 ![](images/version-select-list.png)
 
+## Go in 6 hours
+
+* 2019-04-27, 10:00 at Spartakiade 2019, Berlin
+* [https://github.com/miku/golang6h](https://github.com/miku/golang6h)
+
+![](images/golang6h.png)
+
+## A short tour through net and net/http
+
+* 2019-04-28, 10:00 at Spartakiade 2019, Berlin
+* [https://github.com/miku/golangnetpkg](https://github.com/miku/golangnetpkg)
+
+![](images/golangnetpkg.png)
