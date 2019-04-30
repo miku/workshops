@@ -24,7 +24,7 @@ of a few things, in rough chronological order (with
 * [Git bits (git)](https://github.com/miku/workshops#git-bits-git)
 * [Intro to Go modules (Go)](https://github.com/miku/workshops#intro-to-go-modules)
 * [Go in 6 hours (Go)](https://github.com/miku/workshops#go-in-6-hours)
-* [A short tour through net and net/http (Go)](https://github.com/miku/workshops#a-short-tour-through-net-and-net-http)
+* [A short tour through net and net/http (Go)](https://github.com/miku/workshops#a-short-tour-through-net-and-nethttp)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
