@@ -173,7 +173,7 @@ A short tour through PyTorch.
 
 ## IO in 15 minutes
 
-* 2019-06-15, 19:00 at Go and Cloud Native User Group, Leipzig
+* 2019-06-14, 19:00 at Go and Cloud Native User Group, Leipzig
 * [https://github.com/miku/io15min](https://github.com/miku/io15min)
 
 ![](images/readerfrom1850.jpg)
