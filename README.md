@@ -25,6 +25,7 @@ of a few things, in rough chronological order (with
 * [Intro to Go modules (Go)](https://github.com/miku/workshops#intro-to-go-modules)
 * [Go in 6 hours (Go)](https://github.com/miku/workshops#go-in-6-hours)
 * [A short tour through net and net/http (Go)](https://github.com/miku/workshops#a-short-tour-through-net-and-nethttp)
+* [IO in 15 minutes (Go)](https://github.com/miku/workshops#io-in-15-minutes)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -151,7 +152,7 @@ A short tour through PyTorch.
 
 ## Intro to Go modules
 
-* 2019-04-15, 19:00 at Golang and Cloud Native User Group, Leipzig
+* 2019-04-15, 19:00 at Go and Cloud Native User Group, Leipzig
 * [https://github.com/miku/gomodintro](https://github.com/miku/gomodintro)
 
 ![](images/version-select-list.png)
@@ -169,3 +170,10 @@ A short tour through PyTorch.
 * [https://github.com/miku/golangnetpkg](https://github.com/miku/golangnetpkg)
 
 ![](images/golangnetpkg.png)
+
+## IO in 15 minutes
+
+* 2019-06-15, 19:00 at Go and Cloud Native User Group, Leipzig
+* [https://github.com/miku/io15min](https://github.com/miku/io15min)
+
+![](images/readerfrom18.jpg)
