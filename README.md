@@ -26,6 +26,7 @@ of a few things, in rough chronological order (with
 * [Go in 6 hours (Go)](https://github.com/miku/workshops#go-in-6-hours)
 * [A short tour through net and net/http (Go)](https://github.com/miku/workshops#a-short-tour-through-net-and-nethttp)
 * [IO in 15 minutes (Go)](https://github.com/miku/workshops#io-in-15-minutes)
+* [Review of Concurrency in Go](https://github.com/miku/workshops#review-of-concurrency-in-go)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -177,3 +178,10 @@ A short tour through PyTorch.
 * [https://github.com/miku/io15min](https://github.com/miku/io15min)
 
 ![](images/readerfrom1850.jpg)
+
+## Review of Concurrency in Go
+
+* 2019-09-27, 19:00 at Golang User Group, Leipzig
+* [http://github.com/miku/cignotes](http://github.com/miku/cignotes)
+
+![](images/cigch1topics.png)
