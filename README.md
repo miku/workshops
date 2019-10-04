@@ -132,21 +132,21 @@ A short tour through PyTorch.
 
 ## Packaging Python (Python)
 
-* Dists, zips, debs and docker, 2018-11-17 at PyconBalkan, Belgrade (SRB)
+* Dists, zips, debs and docker, 2018-11-17 at [PyconBalkan](https://pyconbalkan.com/), Belgrade (SRB)
 * [https://github.com/miku/packpy](https://github.com/miku/packpy)
 
 ![](images/gradient.png)
 
 ## Batch data processing with Luigi (Python)
 
-* 2018-11-17, 17:00-18:30 at PyConBalkan, Belgrade (SRB)
+* 2018-11-17, 17:00-18:30 at [PyConBalkan](https://pyconbalkan.com/), Belgrade (SRB)
 * [https://github.com/miku/batchdata](https://github.com/miku/batchdata)
 
 ![](images/batch.png)
 
 ## Git bits (git)
 
-* 2019-02-25, 12:30-13:30 at UBL
+* 2019-02-25, 12:30-13:30 at [UBL](https://www.ub.uni-leipzig.de)
 * [https://github.com/miku/gitbits](https://github.com/miku/gitbits)
 
 ![](images/gitbits.png)
@@ -154,42 +154,42 @@ A short tour through PyTorch.
 
 ## Intro to Go modules
 
-* 2019-04-15, 19:00 at Go and Cloud Native User Group, Leipzig
+* 2019-04-15, 19:00 at [Go and Cloud Native User Group](https://www.meetup.com/Leipzig-Golang/), Leipzig
 * [https://github.com/miku/gomodintro](https://github.com/miku/gomodintro)
 
 ![](images/version-select-list.png)
 
 ## Go in 6 hours
 
-* 2019-04-27, 10:00 at Spartakiade 2019, Berlin
+* 2019-04-27, 10:00 at [Spartakiade 2019](https://spartakiade.org/), Berlin
 * [https://github.com/miku/golang6h](https://github.com/miku/golang6h)
 
 ![](images/golang6h.png)
 
 ## A short tour through net and net/http
 
-* 2019-04-28, 10:00 at Spartakiade 2019, Berlin
+* 2019-04-28, 10:00 at [Spartakiade 2019](https://spartakiade.org/), Berlin
 * [https://github.com/miku/golangnetpkg](https://github.com/miku/golangnetpkg)
 
 ![](images/golangnetpkg.png)
 
 ## IO in 15 minutes
 
-* 2019-06-14, 19:00 at Go and Cloud Native User Group, Leipzig
+* 2019-06-14, 19:00 at [Go and Cloud Native User Group](https://pyconbalkan.com/), Leipzig
 * [https://github.com/miku/io15min](https://github.com/miku/io15min)
 
 ![](images/readerfrom1850.jpg)
 
 ## Review of Concurrency in Go
 
-* 2019-09-27, 19:00 at Golang User Group, Leipzig
+* 2019-09-27, 19:00 at [Golang User Group](https://pyconbalkan.com/), Leipzig
 * [http://github.com/miku/cignotes](http://github.com/miku/cignotes)
 
 ![](images/cigch1topics.png)
 
 ## Creative Jupyter
 
-* 2019-10-04, 11:30 at PyCon Balkan 2019, Belgrade
+* 2019-10-04, 11:30 at [PyCon Balkan 2019](https://pyconbalkan.com/), Belgrade
 * [https://github.com/miku/creativejupyter](https://github.com/miku/creativejupyter)
 
 ![](images/creativejupyter.png)
