@@ -27,6 +27,7 @@ of a few things, in rough chronological order (with
 * [A short tour through net and net/http (Go)](https://github.com/miku/workshops#a-short-tour-through-net-and-nethttp)
 * [IO in 15 minutes (Go)](https://github.com/miku/workshops#io-in-15-minutes)
 * [Review of Concurrency in Go (Go)](https://github.com/miku/workshops#review-of-concurrency-in-go)
+* [Creative Jupyter](https://github.com/miku/workshops#creative-jupyter)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -185,3 +186,10 @@ A short tour through PyTorch.
 * [http://github.com/miku/cignotes](http://github.com/miku/cignotes)
 
 ![](images/cigch1topics.png)
+
+## Creative Jupyter
+
+* 2019-10-04, 11:30 at PyCon Balkan 2019, Belgrade
+* [https://github.com/miku/creativejupyter](https://github.com/miku/creativejupyter)
+
+![](images/creativejupyter.png)
