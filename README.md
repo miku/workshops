@@ -28,6 +28,8 @@ of a few things, in rough chronological order (with
 * [IO in 15 minutes (Go)](https://github.com/miku/workshops#io-in-15-minutes)
 * [Review of Concurrency in Go (Go)](https://github.com/miku/workshops#review-of-concurrency-in-go)
 * [Creative Jupyter (Python, data)](https://github.com/miku/workshops#creative-jupyter)
+* [Beautiful I/O (Go)](https://github.com/miku/workshops#beautiful-io)
+* [Writing robust concurrent programs (Go)](https://github.com/miku/workshops#writing-robust-concurrent-programs)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -193,3 +195,18 @@ A short tour through PyTorch.
 * [https://github.com/miku/creativejupyter](https://github.com/miku/creativejupyter)
 
 ![](images/creativejupyter.png)
+
+## Beautiful I/O
+
+* 2019-10-21, 11:15 at [GOLAB 2019](https://golab.io/), Florence
+* [https://github.com/miku/beautifulio](https://github.com/miku/beautifulio)
+
+![](images/golab2019.png)
+
+## Writing robust concurrent programs
+
+* 2019-10-22, 14:30 at [GOLAB 2019](https://golab.io/), Florence
+* [https://github.com/miku/concgo](https://github.com/miku/concgo)
+
+![](images/sleep5mu.png)
+
