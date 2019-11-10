@@ -219,6 +219,6 @@ A short tour through PyTorch.
   Medizin/Naturwissenschaft](https://twitter.com/ubleipzig/status/1191676882099593217),
   Leipzig
 * Introduction to Git, with [RG](https://github.com/geyslein/) (shell), [TH](https://github.com/thoffma) (OpenRefine), [olf42](https://github.com/olf42) (Python)
-* [website](https://ubleipzig.github.io/2019-11-04-leipzig/) , [repo](https://github.com/ubleipzig/2019-11-04-leipzig), extra [material](https://github.com/miku/lc-extra)
+* [website](https://ubleipzig.github.io/2019-11-04-leipzig/), [repo](https://github.com/ubleipzig/2019-11-04-leipzig), extra [material](https://github.com/miku/lc-extra)
 
 ![](images/isilapi.png)
