@@ -30,6 +30,7 @@ of a few things, in rough chronological order (with
 * [Creative Jupyter (Python, data)](https://github.com/miku/workshops#creative-jupyter)
 * [Beautiful I/O (Go)](https://github.com/miku/workshops#beautiful-io)
 * [Writing robust concurrent programs (Go)](https://github.com/miku/workshops#writing-robust-concurrent-programs)
+* [Library Carpentry](https://github.com/miku/workshops#library-carpentry)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -210,3 +211,14 @@ A short tour through PyTorch.
 
 ![](images/sleep5mu.png)
 
+## Library Carpentry
+
+* 2019-11-04 &mdash; 2019-11-05, 09:00&mdash;16:30, Introduction to Git,
+  [Library Carpentry](https://ubleipzig.github.io/2019-11-04-leipzig/),
+  [Bibliothek
+  Medizin/Naturwissenschaft](https://twitter.com/ubleipzig/status/1191676882099593217),
+  Leipzig
+* with [RG](https://github.com/geyslein/) (shell), [TH](https://github.com/thoffma) (OpenRefine), [olf42](https://github.com/olf42) (Python)
+* extra [material](https://github.com/miku/lc-extra)
+
+![](images/isilapi.png)
