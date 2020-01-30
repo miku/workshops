@@ -185,7 +185,7 @@ A short tour through PyTorch.
 
 ## Review of Concurrency in Go
 
-* 2019-09-27, 19:00 at [Golang User Group](https://pyconbalkan.com/), Leipzig
+* 2019-09-27, 19:00 at [Golang User Group](https://golangleipzig.space), Leipzig
 * [http://github.com/miku/cignotes](http://github.com/miku/cignotes)
 
 ![](images/cigch1topics.png)
