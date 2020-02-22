@@ -31,6 +31,7 @@ of a few things, in rough chronological order (with
 * [Beautiful I/O (Go)](https://github.com/miku/workshops#beautiful-io)
 * [Writing robust concurrent programs (Go)](https://github.com/miku/workshops#writing-robust-concurrent-programs)
 * [Library Carpentry (git)](https://github.com/miku/workshops#library-carpentry)
+* [HTTP Getaway (Go)](https://github.com/miku/workshops#http-getaway)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -222,3 +223,11 @@ A short tour through PyTorch.
 * [website](https://ubleipzig.github.io/2019-11-04-leipzig/), [repo](https://github.com/ubleipzig/2019-11-04-leipzig), extra [material](https://github.com/miku/lc-extra)
 
 ![](images/isilapi.png)
+
+## HTTP Getaway
+
+* 2020-02-21, 19:00 at [Golang User Group](https://golangleipzig.space), Leipzig
+* [http://github.com/miku/httpgetaway](http://github.com/miku/httpgetaway)
+
+![](images/httpgetaway.png)
+
