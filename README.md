@@ -229,5 +229,5 @@ A short tour through PyTorch.
 * 2020-02-21, 19:00 at [Golang User Group](https://golangleipzig.space), Leipzig
 * [http://github.com/miku/httpgetaway](http://github.com/miku/httpgetaway)
 
-![](images/httpgetaway.png)
+![](images/yof8.png)
 
