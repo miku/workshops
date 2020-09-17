@@ -224,10 +224,17 @@ A short tour through PyTorch.
 
 ![](images/isilapi.png)
 
-## HTTP Getaway
+## HTTP Getaway (1) Extension Points
 
 * 2020-02-21, 19:00 at [Golang User Group](https://golangleipzig.space), Leipzig
 * [http://github.com/miku/httpgetaway](http://github.com/miku/httpgetaway)
 
 ![](images/yof8.png)
+
+## HTTP Getaway (2) Intro to Proxies
+
+* 2020-09-17, 19:00 at [Golang User Group](https://golangleipzig.space), Leipzig (online)
+* [http://github.com/miku/httpgetaway](http://github.com/miku/httpgetaway)
+
+![](images/knots_5_sm.gif)
 
