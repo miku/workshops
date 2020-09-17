@@ -31,7 +31,8 @@ of a few things, in rough chronological order (with
 * [Beautiful I/O (Go)](https://github.com/miku/workshops#beautiful-io)
 * [Writing robust concurrent programs (Go)](https://github.com/miku/workshops#writing-robust-concurrent-programs)
 * [Library Carpentry (git)](https://github.com/miku/workshops#library-carpentry)
-* [HTTP Getaway (Go)](https://github.com/miku/workshops#http-getaway)
+* [HTTP Getaway 1 Extension Points (Go)](https://github.com/miku/workshops#http-getaway-1-extension-points)
+* [HTTP Getaway 2 Intro to Proxies (Go)](https://github.com/miku/workshops#http-getaway-2-intro-to-proxies)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
