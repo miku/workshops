@@ -30,10 +30,10 @@ of a few things, in rough chronological order (with
 * [Creative Jupyter (Python, data)](https://github.com/miku/workshops#creative-jupyter)
 * [Beautiful I/O (Go)](https://github.com/miku/workshops#beautiful-io)
 * [Writing robust concurrent programs (Go)](https://github.com/miku/workshops#writing-robust-concurrent-programs)
-* [Library Carpentry UB Leipzig (git)](https://github.com/miku/workshops#library-carpentry-ub-leipzig)
+* [Library Carpentry UBL (git)](https://github.com/miku/workshops#library-carpentry-ubl)
 * [HTTP Getaway 1 Extension Points (Go)](https://github.com/miku/workshops#http-getaway-1-extension-points)
 * [HTTP Getaway 2 Intro to Proxies (Go)](https://github.com/miku/workshops#http-getaway-2-intro-to-proxies)
-* [Library Carpentry IG WBS Schweiz (git)](https://github.com/miku/workshops#library-carpentry-ig-wbs-schweiz)
+* [Library Carpentry AALS (git)](https://github.com/miku/workshops#library-carpentry-aals)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
