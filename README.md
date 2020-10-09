@@ -30,9 +30,10 @@ of a few things, in rough chronological order (with
 * [Creative Jupyter (Python, data)](https://github.com/miku/workshops#creative-jupyter)
 * [Beautiful I/O (Go)](https://github.com/miku/workshops#beautiful-io)
 * [Writing robust concurrent programs (Go)](https://github.com/miku/workshops#writing-robust-concurrent-programs)
-* [Library Carpentry (git)](https://github.com/miku/workshops#library-carpentry)
+* [Library Carpentry UB Leipzig (git)](https://github.com/miku/workshops#library-carpentry-ub-leipzig)
 * [HTTP Getaway 1 Extension Points (Go)](https://github.com/miku/workshops#http-getaway-1-extension-points)
 * [HTTP Getaway 2 Intro to Proxies (Go)](https://github.com/miku/workshops#http-getaway-2-intro-to-proxies)
+* [Library Carpentry IG WBS Schweiz (git)](https://github.com/miku/workshops#library-carpentry-ig-wbs-schweiz)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -213,7 +214,7 @@ A short tour through PyTorch.
 
 ![](images/sleep5mu.png)
 
-## Library Carpentry
+## Library Carpentry UBL
 
 * 2019-11-04 &mdash; 2019-11-05, 09:00&mdash;16:30,
   [Library Carpentry](https://librarycarpentry.org/),
@@ -239,3 +240,13 @@ A short tour through PyTorch.
 
 ![](images/knots_5_sm.gif)
 
+## Library Carpentry AALS
+
+* 2020-10-09, 15:00&mdash;19:00,
+  [Library Carpentry](https://librarycarpentry.org/),
+  [AALS](https://www.igwbs.ch/),
+  Remote
+* Git Intro, with [KUF](https://github.com/konrad), [RM](https://github.com/RabeaMue), [TS](https://github.com/Tillsa) (Python)
+* [website](https://zbmed.github.io/2020-09-21-LC_IG_WBS_online/), [repo](https://github.com/zbmed/2020-09-21-LC_IG_WBS_online/), extra [material](https://github.com/miku/lc-extra)
+
+![](images/gitcal.png)
