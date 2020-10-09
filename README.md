@@ -246,7 +246,7 @@ A short tour through PyTorch.
   [Library Carpentry](https://librarycarpentry.org/),
   [AALS](https://www.igwbs.ch/),
   Remote
-* Git Intro, with [KUF](https://github.com/konrad), [RM](https://github.com/RabeaMue), [TS](https://github.com/Tillsa) (Python)
+* Git Intro, with [RM](https://github.com/RabeaMue), [KUF](https://github.com/konrad), [TS](https://github.com/Tillsa)
 * [website](https://zbmed.github.io/2020-09-21-LC_IG_WBS_online/), [repo](https://github.com/zbmed/2020-09-21-LC_IG_WBS_online/), extra [material](https://github.com/miku/lc-extra)
 
 ![](images/gitcal.png)
