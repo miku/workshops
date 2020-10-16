@@ -250,3 +250,10 @@ A short tour through PyTorch.
 * [website](https://zbmed.github.io/2020-09-21-LC_IG_WBS_online/), [repo](https://github.com/zbmed/2020-09-21-LC_IG_WBS_online/), extra [material](https://github.com/miku/lc-extra)
 
 ![](images/gitcal.png)
+
+## Haystack
+
+* 2020-10-16, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space/), Remote
+* Haystack Object Storage and Go Implementation (seaweedfs)
+
+![](images/assembly_pic13.png)
