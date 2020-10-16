@@ -34,6 +34,7 @@ of a few things, in rough chronological order (with
 * [HTTP Getaway 1 Extension Points (Go)](https://github.com/miku/workshops#http-getaway-1-extension-points)
 * [HTTP Getaway 2 Intro to Proxies (Go)](https://github.com/miku/workshops#http-getaway-2-intro-to-proxies)
 * [Library Carpentry AALS (git)](https://github.com/miku/workshops#library-carpentry-aals)
+* [Haystack](https://github.com/miku/workshops#haystack)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -228,14 +229,14 @@ A short tour through PyTorch.
 
 ## HTTP Getaway (1) Extension Points
 
-* 2020-02-21, 19:00 at [Golang User Group](https://golangleipzig.space), Leipzig
+* 2020-02-21, 19:00 at [Leipzig Gophers](https://golangleipzig.space), Leipzig
 * [http://github.com/miku/httpgetaway](http://github.com/miku/httpgetaway)
 
 ![](images/yof8.png)
 
 ## HTTP Getaway (2) Intro to Proxies
 
-* 2020-09-17, 19:00 at [Golang User Group](https://golangleipzig.space), Leipzig (online)
+* 2020-09-17, 19:00 at [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
 * [http://github.com/miku/httpgetaway](http://github.com/miku/httpgetaway)
 
 ![](images/knots_5_sm.gif)
@@ -253,7 +254,7 @@ A short tour through PyTorch.
 
 ## Haystack
 
-* 2020-10-16, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space/), Remote
-* Haystack Object Storage and Go Implementation (seaweedfs)
+* 2020-10-16, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space/), Leipzig (remote)
+* [Haystack Object Storage and Go Implementation (seaweedfs)](https://github.com/miku/haystack)
 
 ![](images/assembly_pic13.png)
