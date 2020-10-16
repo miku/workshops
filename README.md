@@ -34,7 +34,7 @@ of a few things, in rough chronological order (with
 * [HTTP Getaway 1 Extension Points (Go)](https://github.com/miku/workshops#http-getaway-1-extension-points)
 * [HTTP Getaway 2 Intro to Proxies (Go)](https://github.com/miku/workshops#http-getaway-2-intro-to-proxies)
 * [Library Carpentry AALS (git)](https://github.com/miku/workshops#library-carpentry-aals)
-* [Haystack](https://github.com/miku/workshops#haystack)
+* [Haystack (Go, data)](https://github.com/miku/workshops#haystack)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
