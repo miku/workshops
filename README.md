@@ -36,6 +36,7 @@ of a few things, in rough chronological order (with
 * [Library Carpentry AALS (git)](https://github.com/miku/workshops#library-carpentry-aals)
 * [Haystack (Go, data)](https://github.com/miku/workshops#haystack)
 * [Productive Go (Go)](https://github.com/miku/workshops#productive-go)
+* [Fast filters in Go (Go, Unix)](https://github.com/miku/workshops#fast-filters-in-go)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -266,3 +267,10 @@ A short tour through PyTorch.
 * [Productive Go](https://github.com/miku/productivego)
 
 ![](images/goadvent.png)
+
+## Fast filters in Go
+
+* 2020-12-18, 19:00 CET, [Leipzig Gophers](), Leipzig (remote)
+* [Faster filters in Go](https://gist.github.com/miku/738f361c8156264626c74f9b717927ff#fast-parallel-filters-in-go)
+
+![](images/swtools.png)
