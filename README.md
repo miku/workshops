@@ -270,7 +270,7 @@ A short tour through PyTorch.
 
 ## Fast filters in Go
 
-* 2020-12-18, 19:00 CET, [Leipzig Gophers](), Leipzig (remote)
+* 2020-12-18, 19:00 CET, [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
 * [Faster filters in
   Go](https://gist.github.com/miku/738f361c8156264626c74f9b717927ff#fast-parallel-filters-in-go),
 lightning talk on [Software Tools](https://openlibrary.org/works/OL4617639W)
