@@ -37,6 +37,7 @@ of a few things, in rough chronological order (with
 * [Haystack (Go, data)](https://github.com/miku/workshops#haystack)
 * [Productive Go (Go)](https://github.com/miku/workshops#productive-go)
 * [Fast filters in Go (Go, Unix)](https://github.com/miku/workshops#fast-filters-in-go)
+* [(Fuzzy) Matching with command line tools and Go (Go, data)](https://github.com/miku/workshops#fuzzy-matching-with-command-line-tools-and-go)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
