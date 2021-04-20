@@ -277,3 +277,10 @@ lightning talk on [Software Tools](https://openlibrary.org/works/OL4617639W)
 and [parallel](https://github.com/miku/parallel)
 
 ![](images/swtools.png)
+
+## (Fuzzy) Matching with command line tools and Go
+
+* 2021-04-20, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
+* [Lightning Talk: (Fuzzy) Matching with command line tools and Go](https://gist.github.com/miku/fb429faad8b856caf6bba5305af024df)
+
+![](https://i.imgur.com/6dSaW2q.png)
