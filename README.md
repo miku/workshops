@@ -31,8 +31,8 @@ of a few things, in rough chronological order (with
 * [Beautiful I/O (Go)](https://github.com/miku/workshops#beautiful-io)
 * [Writing robust concurrent programs (Go)](https://github.com/miku/workshops#writing-robust-concurrent-programs)
 * [Library Carpentry UBL (git)](https://github.com/miku/workshops#library-carpentry-ubl)
-* [HTTP Getaway 1 Extension Points (Go)](https://github.com/miku/httpgetaway/blob/master/ExtensionPoints.md)
-* [HTTP Getaway 2 Intro to Proxies (Go)](https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md)
+* [HTTP Getaway 1 Extension Points (Go)](https://github.com/miku/workshops#http-getaway-1-extension-points)
+* [HTTP Getaway 2 Intro to Proxies (Go)](https://github.com/miku/workshops#http-getaway-2-intro-to-proxies)
 * [Library Carpentry AALS (git)](https://github.com/miku/workshops#library-carpentry-aals)
 * [Haystack (Go, data)](https://github.com/miku/workshops#haystack)
 * [Productive Go (Go)](https://github.com/miku/workshops#productive-go)
@@ -234,14 +234,14 @@ A short tour through PyTorch.
 ## HTTP Getaway (1) Extension Points
 
 * 2020-02-21, 19:00 at [Leipzig Gophers](https://golangleipzig.space), Leipzig
-* [http://github.com/miku/httpgetaway](http://github.com/miku/httpgetaway)
+* [https://github.com/miku/httpgetaway/blob/master/ExtensionPoints.md](https://github.com/miku/httpgetaway/blob/master/ExtensionPoints.md)
 
 ![](images/yof8.png)
 
 ## HTTP Getaway (2) Intro to Proxies
 
 * 2020-09-17, 19:00 at [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
-* [http://github.com/miku/httpgetaway](http://github.com/miku/httpgetaway)
+* [https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md](https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md)
 
 ![](images/knots_5_sm.gif)
 
