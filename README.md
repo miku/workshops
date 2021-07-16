@@ -39,6 +39,7 @@ of a few things, in rough chronological order (with
 * [Fast filters in Go (Go, Unix)](https://github.com/miku/workshops#fast-filters-in-go)
 * [(Fuzzy) Matching with command line tools and Go (Go, data)](https://github.com/miku/workshops#fuzzy-matching-with-command-line-tools-and-go)
 * [Seeking Data (Go, data)](https://github.com/miku/workshops/#seeking-data)
+* [Go for programmers (Go)](https://github.com/miku/workshops/#go-for-programmers)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -293,3 +294,10 @@ and [parallel](https://github.com/miku/parallel)
 * [Lightning Talk: Seeking Data](https://gist.github.com/miku/6dcffb5c104bc44709c330ec90682189#seeking-data)
 
 ![](images/seek-0.png)
+
+## Go for programmers
+
+* 2021-06-11, 9-16 CEST, [Spartakiade](https://spartakiade.org/), Leipzig (remote)
+* [Go for Programmers](https://github.com/miku/goforprogrammers)
+
+![](images/gotool.png)
