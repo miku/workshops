@@ -40,6 +40,7 @@ of a few things, in rough chronological order (with
 * [(Fuzzy) Matching with command line tools and Go (Go, data)](https://github.com/miku/workshops#fuzzy-matching-with-command-line-tools-and-go)
 * [Seeking Data (Go, data)](https://github.com/miku/workshops/#seeking-data)
 * [Go for programmers (Go)](https://github.com/miku/workshops/#go-for-programmers)
+* [A data web service](https://github.com/miku/workshops/#a-data-web-service)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -301,3 +302,10 @@ and [parallel](https://github.com/miku/parallel)
 * [Go for Programmers](https://github.com/miku/goforprogrammers)
 
 ![](images/gotool.png)
+
+## A data web service
+
+* 2021-11-23, 19:00 CET, [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
+* [Lightning Talk: A data web service](https://github.com/miku/dwstalk)
+
+![](images/Untitled-2020-06-15-1740.png)
