@@ -40,7 +40,7 @@ of a few things, in rough chronological order (with
 * [(Fuzzy) Matching with command line tools and Go (Go, data)](https://github.com/miku/workshops#fuzzy-matching-with-command-line-tools-and-go)
 * [Seeking Data (Go, data)](https://github.com/miku/workshops/#seeking-data)
 * [Go for programmers (Go)](https://github.com/miku/workshops/#go-for-programmers)
-* [A data web service](https://github.com/miku/workshops/#a-data-web-service)
+* [A data web service (Go, data)](https://github.com/miku/workshops/#a-data-web-service)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
