@@ -261,7 +261,7 @@ A short tour through PyTorch.
 
 ## Haystack
 
-* 2020-10-16, 19:00 CET, [Leipzig Gophers](https://golangleipzig.space/), Leipzig (remote)
+* 2020-10-16, 19:00 CET, [Leipzig Gophers](https://golangleipzig.space/) [#13](https://golangleipzig.space/posts/meetup-13-wrapup/), Leipzig (remote)
 * [Haystack Object Storage and Go Implementation (seaweedfs)](https://github.com/miku/haystack)
 
 ![](images/assembly_pic13.png)
@@ -275,7 +275,7 @@ A short tour through PyTorch.
 
 ## Fast filters in Go
 
-* 2020-12-18, 19:00 CET, [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
+* 2020-12-18, 19:00 CET, [Leipzig Gophers](https://golangleipzig.space) [#15](https://golangleipzig.space/posts/meetup-15-wrapup/), Leipzig (remote)
 * [Faster filters in
   Go](https://gist.github.com/miku/738f361c8156264626c74f9b717927ff#fast-parallel-filters-in-go),
 lightning talk on [Software Tools](https://openlibrary.org/works/OL4617639W)
@@ -285,14 +285,14 @@ and [parallel](https://github.com/miku/parallel)
 
 ## (Fuzzy) Matching with command line tools and Go
 
-* 2021-04-20, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
+* 2021-04-20, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#17](https://golangleipzig.space/posts/meetup-17-wrapup/), Leipzig (remote)
 * [Lightning Talk: (Fuzzy) Matching with command line tools and Go](https://gist.github.com/miku/fb429faad8b856caf6bba5305af024df)
 
 ![](https://i.imgur.com/6dSaW2q.png)
 
 ## Seeking Data
 
-* 2021-05-25, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
+* 2021-05-25, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#18](https://golangleipzig.space/posts/meetup-18-wrapup/), Leipzig (remote)
 * [Lightning Talk: Seeking Data](https://gist.github.com/miku/6dcffb5c104bc44709c330ec90682189#seeking-data)
 
 ![](images/seek-0.png)
@@ -306,14 +306,14 @@ and [parallel](https://github.com/miku/parallel)
 
 ## A data web service
 
-* 2021-11-23, 19:00 CET, [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
+* 2021-11-23, 19:00 CET, [Leipzig Gophers](https://golangleipzig.space) [#23](https://golangleipzig.space/posts/meetup-23-wrapup/), Leipzig (remote)
 * [Lightning Talk: A data web service](https://github.com/miku/dwstalk)
 
 ![](images/Untitled-2020-06-15-1740.png)
 
 ## The rsync for the cloud era: Rclone
 
-* 2022-04-26, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
+* 2022-04-26, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) #26, Leipzig (remote)
 * [Lightning Talk: The rsync for the cloud era: Rclone](https://github.com/miku/rclone-lightning-talk)
 
 ![](images/rclone-ncdu.png)
