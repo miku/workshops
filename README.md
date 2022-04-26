@@ -41,6 +41,7 @@ of a few things, in rough chronological order (with
 * [Seeking Data (Go, data)](https://github.com/miku/workshops/#seeking-data)
 * [Go for programmers (Go)](https://github.com/miku/workshops/#go-for-programmers)
 * [A data web service (Go, data)](https://github.com/miku/workshops/#a-data-web-service)
+* [The rsync for the cloud era: Rclone](https://github.com/miku/workshops/#the-rsync-for-the-cloud-era-rclone)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -309,3 +310,10 @@ and [parallel](https://github.com/miku/parallel)
 * [Lightning Talk: A data web service](https://github.com/miku/dwstalk)
 
 ![](images/Untitled-2020-06-15-1740.png)
+
+## The rsync for the cloud era: Rclone
+
+* 2022-04-26, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
+* [Lightning Talk: The rsync for the cloud era: Rclone](https://github.com/miku/rclone-lightning-talk)
+
+![](images/rclone-ncdu.png)
