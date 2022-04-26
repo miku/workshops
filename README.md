@@ -168,7 +168,7 @@ A short tour through PyTorch.
 
 ## Intro to Go modules
 
-* 2019-04-15, 19:00 at [Go and Cloud Native User Group](https://www.meetup.com/Leipzig-Golang/), Leipzig
+* 2019-04-15, 19:00 at [Go and Cloud Native User Group](https://www.meetup.com/Leipzig-Golang/) [#3](https://golangleipzig.space/posts/meetup-3-wrapup/), Leipzig
 * [https://github.com/miku/gomodintro](https://github.com/miku/gomodintro)
 
 ![](images/version-select-list.png)
@@ -189,14 +189,14 @@ A short tour through PyTorch.
 
 ## IO in 15 minutes
 
-* 2019-06-14, 19:00 at [Go and Cloud Native User Group](https://pyconbalkan.com/), Leipzig
+* 2019-06-14, 19:00 at [Go and Cloud Native User Group](https://golangleipzig.space) [#5](https://golangleipzig.space/posts/meetup-5-wrapup/), Leipzig
 * [https://github.com/miku/io15min](https://github.com/miku/io15min)
 
 ![](images/readerfrom1850.jpg)
 
 ## Review of Concurrency in Go
 
-* 2019-09-27, 19:00 at [Golang User Group](https://golangleipzig.space), Leipzig
+* 2019-09-27, 19:00 at [Golang User Group](https://golangleipzig.space) [#7](https://golangleipzig.space/posts/meetup-7-wrapup/), Leipzig
 * [http://github.com/miku/cignotes](http://github.com/miku/cignotes)
 
 ![](images/cigch1topics.png)
@@ -236,14 +236,14 @@ A short tour through PyTorch.
 
 ## HTTP Getaway (1) Extension Points
 
-* 2020-02-21, 19:00 at [Leipzig Gophers](https://golangleipzig.space), Leipzig
+* 2020-02-21, 19:00 at [Leipzig Gophers](https://golangleipzig.space) [#9](https://golangleipzig.space/posts/meetup-9-wrapup/), Leipzig
 * [https://github.com/miku/httpgetaway/blob/master/ExtensionPoints.md](https://github.com/miku/httpgetaway/blob/master/ExtensionPoints.md)
 
 ![](images/yof8.png)
 
 ## HTTP Getaway (2) Intro to Proxies
 
-* 2020-09-17, 19:00 at [Leipzig Gophers](https://golangleipzig.space), Leipzig (remote)
+* 2020-09-17, 19:00 at [Leipzig Gophers](https://golangleipzig.space) [#12](https://golangleipzig.space/posts/meetup-12-wrapup/), Leipzig (remote)
 * [https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md](https://github.com/miku/httpgetaway/blob/master/ProxyIntro.md)
 
 ![](images/knots_5_sm.gif)
