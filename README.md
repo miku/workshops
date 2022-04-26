@@ -41,7 +41,7 @@ of a few things, in rough chronological order (with
 * [Seeking Data (Go, data)](https://github.com/miku/workshops/#seeking-data)
 * [Go for programmers (Go)](https://github.com/miku/workshops/#go-for-programmers)
 * [A data web service (Go, data)](https://github.com/miku/workshops/#a-data-web-service)
-* [The rsync for the cloud era: Rclone](https://github.com/miku/workshops/#the-rsync-for-the-cloud-era-rclone)
+* [The rsync for the cloud era: Rclone (Go)](https://github.com/miku/workshops/#the-rsync-for-the-cloud-era-rclone)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
