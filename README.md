@@ -313,7 +313,7 @@ and [parallel](https://github.com/miku/parallel)
 
 ## The rsync for the cloud era: Rclone
 
-* 2022-04-26, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) #26, Leipzig (remote)
+* 2022-04-26, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#26](https://golangleipzig.space/posts/meetup-26-wrapup/), Leipzig (remote)
 * [Lightning Talk: The rsync for the cloud era: Rclone](https://github.com/miku/rclone-lightning-talk)
 
 ![](images/rclone-ncdu.png)
