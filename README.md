@@ -288,7 +288,7 @@ and [parallel](https://github.com/miku/parallel)
 * 2021-04-20, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#17](https://golangleipzig.space/posts/meetup-17-wrapup/), Leipzig (remote)
 * [Lightning Talk: (Fuzzy) Matching with command line tools and Go](https://gist.github.com/miku/fb429faad8b856caf6bba5305af024df)
 
-![](https://i.imgur.com/6dSaW2q.png)
+![](images/6dSaW2q.png)
 
 ## Seeking Data
 
