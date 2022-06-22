@@ -321,7 +321,7 @@ and [parallel](https://github.com/miku/parallel)
 
 ## Glamorous command line apps
 
-* 2022-06-21, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) #28, Leipzig (remote)
+* 2022-06-21, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#28](https://golangleipzig.space/posts/meetup-28-wrapup/), Leipzig (remote)
 * [Glamorous command line apps](https://github.com/miku/glamline)
 
 ![](images/confetty.png)
