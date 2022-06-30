@@ -43,7 +43,7 @@ of a few things, in rough chronological order (with
 * [A data web service (Go, data)](https://github.com/miku/workshops/#a-data-web-service)
 * [The rsync for the cloud era: Rclone (Go)](https://github.com/miku/workshops/#the-rsync-for-the-cloud-era-rclone)
 * [Glamorous command line apps (Go)](https://github.com/miku/workshops/#glamorous-command-line-apps)
-* [State of Go in 2022](https://github.com/miku/workshops#state-of-go-in-2022)
+* [State of Go in 2022 (Go)](https://github.com/miku/workshops#state-of-go-in-2022)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
