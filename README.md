@@ -44,7 +44,7 @@ of a few things, in rough chronological order (with
 * [The rsync for the cloud era: Rclone (Go)](https://github.com/miku/workshops/#the-rsync-for-the-cloud-era-rclone)
 * [Glamorous command line apps (Go)](https://github.com/miku/workshops/#glamorous-command-line-apps)
 * [State of Go in 2022 (Go)](https://github.com/miku/workshops#state-of-go-in-2022)
-* [Go energy efficiency](https://github.com/miku/workshops#go-energy-efficiency)
+* [Go energy efficiency (Go)](https://github.com/miku/workshops#go-energy-efficiency)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
