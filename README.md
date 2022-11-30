@@ -44,6 +44,7 @@ of a few things, in rough chronological order (with
 * [The rsync for the cloud era: Rclone (Go)](https://github.com/miku/workshops/#the-rsync-for-the-cloud-era-rclone)
 * [Glamorous command line apps (Go)](https://github.com/miku/workshops/#glamorous-command-line-apps)
 * [State of Go in 2022 (Go)](https://github.com/miku/workshops#state-of-go-in-2022)
+* [Go energy efficiency](https://github.com/miku/workshops#go-energy-efficiency)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -333,5 +334,12 @@ and [parallel](https://github.com/miku/parallel)
 * [State of Go in 2022](https://github.com/golang-leipzig/state-of-go-in-2022)
 
 ![](images/go1022.png)
+
+## Go energy efficiency
+
+* 2022-11-29, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#32](https://golangleipzig.space/posts/meetup-32-wrapup/), Leipzig
+* [Go energy efficiency](https://github.com/miku/goenergy)
+
+![](images/rplbee10.png)
 
 
