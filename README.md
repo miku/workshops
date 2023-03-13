@@ -45,6 +45,7 @@ of a few things, in rough chronological order (with
 * [Glamorous command line apps (Go)](https://github.com/miku/workshops/#glamorous-command-line-apps)
 * [State of Go in 2022 (Go)](https://github.com/miku/workshops#state-of-go-in-2022)
 * [Go energy efficiency (Go)](https://github.com/miku/workshops#go-energy-efficiency)
+* [Sustainability and security in the Go ecosystem](https://github.com/miku/workshops#sustainability-and-security-in-the-go-ecosystem)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -342,4 +343,10 @@ and [parallel](https://github.com/miku/parallel)
 
 ![](images/rplbee10.png)
 
+## Sustainability and Security in the Go ecosystem
+
+* 2022-03-11, 14:00 CEST, [Chemnitzer Linux-Tage 2023](https://chemnitzer.linux-tage.de/2023) [L234](https://chemnitzer.linux-tage.de/2023/en/programm/beitrag/234), Chemnitz
+* [Sustainability and Security in the Go ecosystem](https://github.com/miku/goeco)
+
+![](images/clt23.png)
 
