@@ -46,7 +46,7 @@ of a few things, in rough chronological order (with
 * [State of Go in 2022 (Go)](https://github.com/miku/workshops#state-of-go-in-2022)
 * [Go energy efficiency (Go)](https://github.com/miku/workshops#go-energy-efficiency)
 * [Sustainability and security in the Go ecosystem (Go)](https://github.com/miku/workshops#sustainability-and-security-in-the-go-ecosystem)
-* [Cgo experiments](https://github.com/miku/workshops#cgo-experiments)
+* [Cgo experiments (Go, C)](https://github.com/miku/workshops#cgo-experiments)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
