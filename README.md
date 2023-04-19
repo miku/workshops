@@ -46,6 +46,7 @@ of a few things, in rough chronological order (with
 * [State of Go in 2022 (Go)](https://github.com/miku/workshops#state-of-go-in-2022)
 * [Go energy efficiency (Go)](https://github.com/miku/workshops#go-energy-efficiency)
 * [Sustainability and security in the Go ecosystem (Go)](https://github.com/miku/workshops#sustainability-and-security-in-the-go-ecosystem)
+* [Cgo experiments](https://github.com/miku/workshops#cgo-experiments)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -349,4 +350,11 @@ and [parallel](https://github.com/miku/parallel)
 * [Sustainability and Security in the Go ecosystem](https://github.com/miku/goeco)
 
 ![](images/clt23.png)
+
+## Cgo experiments
+
+* 2022-04-18, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#35](https://golangleipzig.space/posts/meetup-35-wrapup), Leipzig
+* [Cgo experiments](https://github.com/miku/cgosamples)
+
+![](images/cgo-s.png)
 
