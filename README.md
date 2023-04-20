@@ -346,14 +346,14 @@ and [parallel](https://github.com/miku/parallel)
 
 ## Sustainability and Security in the Go ecosystem
 
-* 2022-03-11, 14:00 CEST, [Chemnitzer Linux-Tage 2023](https://chemnitzer.linux-tage.de/2023) [L234](https://chemnitzer.linux-tage.de/2023/en/programm/beitrag/234), Chemnitz
+* 2023-03-11, 14:00 CEST, [Chemnitzer Linux-Tage 2023](https://chemnitzer.linux-tage.de/2023) [L234](https://chemnitzer.linux-tage.de/2023/en/programm/beitrag/234), Chemnitz
 * [Sustainability and Security in the Go ecosystem](https://github.com/miku/goeco)
 
 ![](images/clt23.png)
 
 ## Cgo experiments
 
-* 2022-04-18, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#35](https://golangleipzig.space/posts/meetup-35-wrapup), Leipzig
+* 2023-04-18, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#35](https://golangleipzig.space/posts/meetup-35-wrapup), Leipzig
 * [Cgo experiments](https://github.com/miku/cgosamples)
 
 ![](images/cgo-s.png)
