@@ -47,6 +47,7 @@ of a few things, in rough chronological order (with
 * [Go energy efficiency (Go)](https://github.com/miku/workshops#go-energy-efficiency)
 * [Sustainability and security in the Go ecosystem (Go)](https://github.com/miku/workshops#sustainability-and-security-in-the-go-ecosystem)
 * [Cgo experiments (Go, C)](https://github.com/miku/workshops#cgo-experiments)
+* [Ollama Testdrive (Go, data)](https://github.com/miku/workshops#ollama-testdrive)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -357,4 +358,11 @@ and [parallel](https://github.com/miku/parallel)
 * [Cgo experiments](https://github.com/miku/cgosamples)
 
 ![](images/cgo-s.png)
+
+## Ollama testdrive
+
+* 2023-11-21, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#38](https://golangleipzig.space/posts/meetup-38-wrapup), Leipzig
+* [Ollama testdrive](https://github.com/miku/localmodels)
+
+![](images/three-genai-haiku.png)
 
