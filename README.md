@@ -361,8 +361,14 @@ and [parallel](https://github.com/miku/parallel)
 
 ## Ollama testdrive
 
-* 2023-11-21, 19:00 CEST, [Leipzig Gophers](https://golangleipzig.space) [#38](https://golangleipzig.space/posts/meetup-38-wrapup), Leipzig
+* 2023-11-21, 19:00 CET, [Leipzig Gophers](https://golangleipzig.space) [#38](https://golangleipzig.space/posts/meetup-38-wrapup), Leipzig
 * [Ollama testdrive](https://github.com/miku/localmodels)
 
 ![](images/three-genai-haiku.png)
 
+## Notes on Prompt Engineering
+
+* 2024-02-29, 11:45 CET, [Writing Day](https://www.ub.uni-leipzig.de/aktuelle-ausstellungen/schreibtag/) 2024 at [UB Leipzig](https://www.ub.uni-leipzig.de)
+* [Act as a helpful writing assistant / Notes on prompt engineering](https://raw.githubusercontent.com/miku/ubl-wd-2024-pe/main/UBL-WD-2024-PE-MC.pdf)
+
+![](images/wa-miku-1.png)
