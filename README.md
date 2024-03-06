@@ -48,6 +48,7 @@ of a few things, in rough chronological order (with
 * [Sustainability and security in the Go ecosystem (Go)](https://github.com/miku/workshops#sustainability-and-security-in-the-go-ecosystem)
 * [Cgo experiments (Go, C)](https://github.com/miku/workshops#cgo-experiments)
 * [Ollama Testdrive (Go, data)](https://github.com/miku/workshops#ollama-testdrive)
+* [Notes on Prompt Engineering (data)](https://github.com/miku/workshops#notes-on-prompt-engineering)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
