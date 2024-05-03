@@ -49,6 +49,7 @@ of a few things, in rough chronological order (with
 * [Cgo experiments (Go, C)](https://github.com/miku/workshops#cgo-experiments)
 * [Ollama Testdrive (Go, data)](https://github.com/miku/workshops#ollama-testdrive)
 * [Notes on Prompt Engineering (data)](https://github.com/miku/workshops#notes-on-prompt-engineering)
+* [1BRC in Go (Go, data)](https://github.com/miku/workshops#1brc-in-go)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -373,3 +374,10 @@ and [parallel](https://github.com/miku/parallel)
 * [Act as a helpful writing assistant / Notes on prompt engineering](https://raw.githubusercontent.com/miku/ubl-wd-2024-pe/main/UBL-WD-2024-PE-MC.pdf)
 
 ![](images/wa-miku-1.png)
+
+## 1BRC in Go
+
+* 2024-04-30, 19:00 CET, Lightning talk at [Leipzig Gophers](https://golangleipzig.space/) [#42](https://golangleipzig.space/posts/meetup-42-wrapup/), Leipzig
+* [1BRC in Go](https://github.com/golang-leipzig/1brc-in-go)
+
+![](images/1brc.png)
