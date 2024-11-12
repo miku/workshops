@@ -50,7 +50,7 @@ of a few things, in rough chronological order (with
 * [Ollama Testdrive (Go, data)](https://github.com/miku/workshops#ollama-testdrive)
 * [Notes on Prompt Engineering (data)](https://github.com/miku/workshops#notes-on-prompt-engineering)
 * [1BRC in Go (Go, data)](https://github.com/miku/workshops#1brc-in-go)
-* [Exercises in Performance Optimizations](https://github.com/miku/workshops#exercises-in-performance-optimizations)
+* [Exercises in Performance Optimizations (Go, data)](https://github.com/miku/workshops#exercises-in-performance-optimizations)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
