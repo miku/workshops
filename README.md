@@ -50,6 +50,7 @@ of a few things, in rough chronological order (with
 * [Ollama Testdrive (Go, data)](https://github.com/miku/workshops#ollama-testdrive)
 * [Notes on Prompt Engineering (data)](https://github.com/miku/workshops#notes-on-prompt-engineering)
 * [1BRC in Go (Go, data)](https://github.com/miku/workshops#1brc-in-go)
+* [Exercises in Performance Optimizations](https://github.com/miku/workshops#exercises-in-performance-optimizations)
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -381,3 +382,10 @@ and [parallel](https://github.com/miku/parallel)
 * [1BRC in Go](https://github.com/golang-leipzig/1brc-in-go)
 
 ![](images/1brc.png)
+
+## Exercises in performance optiomizations
+
+* 2024-11-11, 14:30 CET, Workshop at [GOLAB 2024](https://golab.io)
+* [EXPO](https://github.com/miku/expo), going from 179s and 2TCPU instructions (2004 inst/line) to 1.11s and 165B CPU instructions (165 inst/line), about 162x speedup
+
+![](images/117570.png)
