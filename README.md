@@ -169,7 +169,7 @@ A short tour through PyTorch.
 
 ## Git bits (git)
 
-* 2019-02-25, 12:30-13:30 at [UBL](https://www.ub.uni-leipzig.de)
+* 2019-02-25, 12:30-13:30 at [UBL](https://www.ub.uni-leipzig.de), Leipzig
 * [https://github.com/miku/gitbits](https://github.com/miku/gitbits)
 
 ![](images/gitbits.png)
@@ -385,7 +385,7 @@ and [parallel](https://github.com/miku/parallel)
 
 ## Exercises in performance optimizations
 
-* 2024-11-11, 14:30 CET, Workshop at [GOLAB 2024](https://golab.io)
+* 2024-11-11, 14:30 CET, Workshop at [GOLAB 2024](https://golab.io), Florence
 * [EXPO](https://github.com/miku/expo) &mdash; going from 179s and 2TCPU instructions (2004 inst/line) to 1.11s and 165B CPU instructions (165 inst/line), about 162x speedup (using 12% of inst)
 
 ![](images/swar.png)
