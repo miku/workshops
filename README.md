@@ -386,6 +386,6 @@ and [parallel](https://github.com/miku/parallel)
 ## Exercises in performance optimizations
 
 * 2024-11-11, 14:30 CET, Workshop at [GOLAB 2024](https://golab.io), Florence
-* [EXPO](https://github.com/miku/expo) &mdash; going from 179s and 2TCPU instructions (2004 inst/line) to 1.11s and 165B CPU instructions (165 inst/line), about 162x speedup (using 12% of inst)
+* [EXPO](https://github.com/miku/expo) &mdash; going from 179s and 2T CPU instructions (2004 inst/line) to 1.11s and 165B CPU instructions (165 inst/line), about **162x** speedup (using 12% of inst)
 
 ![](images/swar.png)
