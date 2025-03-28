@@ -397,4 +397,4 @@ and [parallel](https://github.com/miku/parallel)
 * 2025-03-25, 19:00 CET, Lightning Talk at [Leipzig Gophers](https://golangleipzig.space) [#49](https://golangleipzig.space/posts/meetup-49-wrapup/)
 * Slides: [LGO49-RYOVPN.pdf](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf)
 
-[![](ryovpn-net-globe.gif)](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf)
+[![](images/ryovpn-net-globe.gif)](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf)
