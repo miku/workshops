@@ -51,6 +51,8 @@ of a few things, in rough chronological order (with
 * [Notes on Prompt Engineering (data)](https://github.com/miku/workshops#notes-on-prompt-engineering)
 * [1BRC in Go (Go, data)](https://github.com/miku/workshops#1brc-in-go)
 * [Exercises in Performance Optimizations (Go, data)](https://github.com/miku/workshops#exercises-in-performance-optimizations)
+* [Run your own VPN with headscale (Go, net)](https://github.com/miku/workshops#run-you-own-vpn-with-headscale)
+
 
 ## Cloning isn't just for sheeps and galactic empires (git)
 
@@ -389,3 +391,10 @@ and [parallel](https://github.com/miku/parallel)
 * [EXPO](https://github.com/miku/expo) &mdash; going from 179s and 2T CPU instructions (2004 inst/line) to 1.11s and 165B CPU instructions (165 inst/line), about **162x** speedup (using 12% of inst)
 
 ![](images/swar.png)
+
+## Run your own VPN with headscale
+
+* 2025-03-25, 19:00 CET, Lightning Talk at [Leipzig Gophers](https://golangleipzig.space) [#49](https://golangleipzig.space/posts/meetup-49-wrapup/)
+* Slides: [LGO49-RYOVPN.pdf](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf)
+
+[![](ryovpn-net-globe.gif)](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf)
