@@ -51,7 +51,7 @@ of a few things, in rough chronological order (with
 * [Notes on Prompt Engineering (data)](https://github.com/miku/workshops#notes-on-prompt-engineering)
 * [1BRC in Go (Go, data)](https://github.com/miku/workshops#1brc-in-go)
 * [Exercises in Performance Optimizations (Go, data)](https://github.com/miku/workshops#exercises-in-performance-optimizations)
-* [Run your own VPN with headscale (Go, net)](https://github.com/miku/workshops#run-you-own-vpn-with-headscale)
+* [Run your own VPN with headscale (Go, net)](https://github.com/miku/workshops#run-your-own-vpn-with-headscale)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
