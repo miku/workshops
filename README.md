@@ -398,3 +398,7 @@ and [parallel](https://github.com/miku/parallel)
 * Slides: [LGO49-RYOVPN.pdf](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf)
 
 [![](images/ryovpn-net-globe.gif)](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf)
+
+## AI x Library explorations (2025)
+
+* [AIEXP-25-1](https://github.com/miku/aiexp-25-1) 2025-05-20, [AIEXP-25-2](https://github.com/miku/aiexp-25-2) 2025-07-17
