@@ -52,6 +52,7 @@ of a few things, in rough chronological order (with
 * [1BRC in Go (Go, data)](https://github.com/miku/workshops#1brc-in-go)
 * [Exercises in Performance Optimizations (Go, data)](https://github.com/miku/workshops#exercises-in-performance-optimizations)
 * [Run your own VPN with headscale (Go, net)](https://github.com/miku/workshops#run-your-own-vpn-with-headscale)
+* [AI x Library Explorations 2025](https://github.com/miku/workshops?tab=readme-ov-file#ai-x-library-explorations-2025)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -402,3 +403,5 @@ and [parallel](https://github.com/miku/parallel)
 ## AI x Library explorations (2025)
 
 * [AIEXP-25-1](https://github.com/miku/aiexp-25-1) 2025-05-20, [AIEXP-25-2](https://github.com/miku/aiexp-25-2) 2025-07-17
+
+![](images/screenshot-2025-05-20-100654-glow.png)
