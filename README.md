@@ -95,7 +95,7 @@ functional package manager](https://nixos.org/nix/).
 
 ## Hands-On Lab: Build Your Own Index (data)
 
-* three-hour lab at [*Deutscher Bibliothekartag*](https://de.wikipedia.org/wiki/Bibliothekartag#Bibliothekartag), 2017-06-02, Frankfurt am Main, with [Tracy](https://twitter.com/nabatz)
+* three-hour lab at [*Deutscher Bibliothekartag*](https://de.wikipedia.org/wiki/Bibliothekartag#Bibliothekartag), 2017-06-02, Frankfurt am Main, with [Tracy](https://orcid.org/0000-0001-8718-9536)
 * [https://github.com/miku/siskin/blob/master/docs/btag-2017/btag-2017.md](https://github.com/miku/siskin/blob/master/docs/btag-2017/btag-2017.md)
 
 ![](images/ai5.png)
