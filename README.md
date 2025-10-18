@@ -53,6 +53,7 @@ of a few things, in rough chronological order (with
 * [Exercises in Performance Optimizations (Go, data)](https://github.com/miku/workshops#exercises-in-performance-optimizations)
 * [Run your own VPN with headscale (Go, net)](https://github.com/miku/workshops#run-your-own-vpn-with-headscale)
 * [AI x Library Explorations 2025](https://github.com/miku/workshops?tab=readme-ov-file#ai-x-library-explorations-2025)
+* [What happens when you type a prompt into ollama? (Go, data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#what-happens-when-you-type-a-prompt-into-ollama)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -405,3 +406,11 @@ and [parallel](https://github.com/miku/parallel)
 * [AIEXP-25-1](https://github.com/miku/aiexp-25-1) 2025-05-20, [AIEXP-25-2](https://github.com/miku/aiexp-25-2) 2025-07-17
 
 ![](images/screenshot-2025-05-20-100654-glow.png)
+
+## What happens when you type a prompt into ollama
+
+* 2025-10-05, 14:30, Workshop at [GoLab 2025](https://golab.io), Florence
+* [Repo](https://github.com/miku/ollamaintro) and [Slides](https://github.com/miku/ollamaintro/blob/main/Slides.md)
+
+![](images/ollama-eliza.png)
+
