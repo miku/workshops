@@ -407,7 +407,7 @@ and [parallel](https://github.com/miku/parallel)
 
 ![](images/screenshot-2025-05-20-100654-glow.png)
 
-## What happens when you type a prompt into ollama
+## What happens when you type a prompt into ollama?
 
 * 2025-10-05, 14:30, Workshop at [GoLab 2025](https://golab.io), Florence
 * [Repo](https://github.com/miku/ollamaintro) and [Slides](https://github.com/miku/ollamaintro/blob/main/Slides.md)
