@@ -414,3 +414,9 @@ and [parallel](https://github.com/miku/parallel)
 
 ![](images/ollama-eliza.png)
 
+## Open Models for AI applications
+
+* 2025-11-21, 11:30, Short Workshop at [KI-Tage Halle (Saale)](https://ki-tage.webwirtschaft.net/), Halle (Saale)
+* [Slides](https://github.com/miku/localai-kith-2025)
+
+![](images/screenshot-2025-10-13-174543-hf-smollm2-binpic.png)
