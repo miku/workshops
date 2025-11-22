@@ -54,6 +54,7 @@ of a few things, in rough chronological order (with
 * [Run your own VPN with headscale (Go, net)](https://github.com/miku/workshops#run-your-own-vpn-with-headscale)
 * [AI x Library Explorations 2025](https://github.com/miku/workshops?tab=readme-ov-file#ai-x-library-explorations-2025)
 * [What happens when you type a prompt into ollama? (Go, data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#what-happens-when-you-type-a-prompt-into-ollama)
+* [Open Models for AI applications (data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#open-models-for-ai-applications)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
