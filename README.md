@@ -55,6 +55,7 @@ of a few things, in rough chronological order (with
 * [AI x Library Explorations 2025](https://github.com/miku/workshops?tab=readme-ov-file#ai-x-library-explorations-2025)
 * [What happens when you type a prompt into ollama? (Go, data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#what-happens-when-you-type-a-prompt-into-ollama)
 * [Open Models for AI applications (data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#open-models-for-ai-applications)
+* [Writing an agent from scratch in Go (go, ai)](https://github.com/miku/workshops?tab=readme-ov-file#writing-an-agent-from-scratch-in-go)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -421,3 +422,10 @@ and [parallel](https://github.com/miku/parallel)
 * [Slides](https://github.com/miku/localai-kith-2025)
 
 ![](images/screenshot-2025-10-13-174543-hf-smollm2-binpic.png)
+
+## Writing an agent from scratch in Go
+
+* 2025-11-25, 19:00, lightning talk as [Leipzig Gophers](https://golangleipzig.space) [#56](https://golangleipzig.space/posts/meetup-56-wrapup/), Lepizig
+* [Notes and code](https://github.com/miku/unplugged)
+
+![](images/tools-jless-s.png)
