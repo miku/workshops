@@ -411,7 +411,7 @@ and [parallel](https://github.com/miku/parallel)
 
 ## What happens when you type a prompt into ollama?
 
-* 2025-10-05, 14:30, Workshop at [GoLab 2025](https://golab.io), Florence
+* 2025-10-05, 14:30, Workshop at [GoLab 2025](https://golab.io), Florence (IT)
 * [Repo](https://github.com/miku/ollamaintro) and [Slides](https://github.com/miku/ollamaintro/blob/main/Slides.md)
 
 ![](images/ollama-eliza.png)
@@ -425,7 +425,7 @@ and [parallel](https://github.com/miku/parallel)
 
 ## Writing a simple agent in Go
 
-* 2025-11-25, 19:00, lightning talk as [Leipzig Gophers](https://golangleipzig.space) [#56](https://golangleipzig.space/posts/meetup-56-wrapup/), Lepizig
+* 2025-11-25, 19:00, lightning talk as [Leipzig Gophers](https://golangleipzig.space) [#56](https://golangleipzig.space/posts/meetup-56-wrapup/), Leipzig
 * [Notes and code](https://github.com/miku/unplugged)
 
 ![](images/tools-jless-s.png)
