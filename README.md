@@ -403,9 +403,15 @@ and [parallel](https://github.com/miku/parallel)
 
 [![](images/ryovpn-net-globe.gif)](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf)
 
-## AI x Library explorations (2025)
+## AI x Library explorations (2025 ff)
 
-* [AIEXP-25-1](https://github.com/miku/aiexp-25-1) 2025-05-20, [AIEXP-25-2](https://github.com/miku/aiexp-25-2) 2025-07-17
+* [Prompt engineering](https://github.com/miku/prompteng) 2025-05-15
+* [AIEXP-25-1](https://github.com/miku/aiexp-25-1) 2025-05-20
+* [AIEXP-25-2](https://github.com/miku/aiexp-25-2) 2025-07-17
+* [AIEXP-25-3](https://github.com/miku/aiexp-25-3) 2025-08-07
+* [AIEXP-25-5](https://github.com/miku/aiexp-25-5) 2025-09-18
+* [AIEXP-25-6](https://github.com/miku/aiexp-25-6) 2025-10-14
+* [AIEXP-26-2](https://github.com/miku/aiexp-26-2) 2026-01-22
 
 ![](images/screenshot-2025-05-20-100654-glow.png)
 
