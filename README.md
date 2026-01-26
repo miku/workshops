@@ -52,7 +52,7 @@ of a few things, in rough chronological order (with
 * [1BRC in Go (Go, data)](https://github.com/miku/workshops#1brc-in-go)
 * [Exercises in Performance Optimizations (Go, data)](https://github.com/miku/workshops#exercises-in-performance-optimizations)
 * [Run your own VPN with headscale (Go, net)](https://github.com/miku/workshops#run-your-own-vpn-with-headscale)
-* [AI x Library Explorations 2025](https://github.com/miku/workshops?tab=readme-ov-file#ai-x-library-explorations-2025)
+* [AI x Library Explorations](https://github.com/miku/workshops?tab=readme-ov-file#ai-x-library-explorations)
 * [What happens when you type a prompt into ollama? (Go, data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#what-happens-when-you-type-a-prompt-into-ollama)
 * [Open Models for AI applications (data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#open-models-for-ai-applications)
 * [Writing a simple agent in Go (go, ai)](https://github.com/miku/workshops?tab=readme-ov-file#writing-a-simple-agent-in-go)
@@ -403,7 +403,7 @@ and [parallel](https://github.com/miku/parallel)
 
 [![](images/ryovpn-net-globe.gif)](https://golangleipzig.space/downloads/LGO49-RYOVPN.pdf)
 
-## AI x Library explorations (2025 ff)
+## AI x Library explorations
 
 * [Prompt engineering](https://github.com/miku/prompteng) 2025-05-15
 * [AIEXP-25-1](https://github.com/miku/aiexp-25-1) 2025-05-20
