@@ -431,7 +431,8 @@ and [parallel](https://github.com/miku/parallel)
 
 ## Writing a simple agent in Go
 
-* 2025-11-25, 19:00, lightning talk as [Leipzig Gophers](https://golangleipzig.space) [#56](https://golangleipzig.space/posts/meetup-56-wrapup/), Leipzig
+* 2025-11-25, 19:00, lightning talk at [Leipzig Gophers](https://golangleipzig.space) [#56](https://golangleipzig.space/posts/meetup-56-wrapup/), Leipzig
+* 2026-02-18, 19:00, lightning talk at [KI Meetup #9](https://klaustor-coworking.de/events/260218-ki-meetup-halle/), Halle (Saale)
 * [Notes and code](https://github.com/miku/unplugged)
 
 ![](images/tools-jless-s.png)
