@@ -434,6 +434,7 @@ and [parallel](https://github.com/miku/parallel)
 
 * 2025-11-25, 19:00, lightning talk at [Leipzig Gophers](https://golangleipzig.space) [#56](https://golangleipzig.space/posts/meetup-56-wrapup/), Leipzig
 * 2026-02-18, 19:00, lightning talk at [KI Meetup #9](https://klaustor-coworking.de/events/260218-ki-meetup-halle/), Halle (Saale)
+* 2026-04-15, 19:00, lightning talk at [KI Meetup #11](https://klaustor-coworking.de/events/260415-ki-meetup-halle/) on [agent implementations](https://github.com/miku/unplugged/blob/main/notes/2026-04-13-agent-implementations.md), Halle (Saale)
 * [Notes and code](https://github.com/miku/unplugged)
 
 ![](images/tools-jless-s.png)
