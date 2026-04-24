@@ -441,8 +441,8 @@ and [parallel](https://github.com/miku/parallel)
 
 ## Run Local AI
 
-* 2026-04-21, 13:15, workshop at [BMN](https://www.ub.uni-leipzig.de/standorte/medizinnaturwissenschaften), Leipzig
-* [Notes](https://github.com/miku/runlocalai)
+* 2026-04-21, 13:15, workshop at [BMN](https://www.ub.uni-leipzig.de/standorte/medizinnaturwissenschaften), [Wissen Kompakt IV](https://www.ub.uni-leipzig.de/service/workshops-und-online-tutorials/alle-angebote/aktuelle-workshops/wissen-kompakt-vi-schulungswoche-zum-wissenschaftlichen-arbeiten-20-24-april-2026), Leipzig
+* [Notes](https://github.com/miku/runlocalai), demo of desktop application and a variety of small and large local LLM hosting options, from Zimaboard to GPU cluster
 
 ![](images/screenshot-2026-04-24-093708-hf-qwen36-gguf-395.png)
 
