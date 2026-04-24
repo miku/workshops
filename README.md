@@ -56,6 +56,7 @@ of a few things, in rough chronological order (with
 * [What happens when you type a prompt into ollama? (Go, data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#what-happens-when-you-type-a-prompt-into-ollama)
 * [Open Models for AI applications (data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#open-models-for-ai-applications)
 * [Writing a simple agent in Go (go, ai)](https://github.com/miku/workshops?tab=readme-ov-file#writing-a-simple-agent-in-go)
+* [Run local AI (ai)](https://github.com/miku/workshops?tab=readme-ov-file#run-local-ai)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -436,3 +437,11 @@ and [parallel](https://github.com/miku/parallel)
 * [Notes and code](https://github.com/miku/unplugged)
 
 ![](images/tools-jless-s.png)
+
+## Run Local AI
+
+* 2026-04-21, 13:15, workshop at [BMN](https://www.ub.uni-leipzig.de/standorte/medizinnaturwissenschaften), Leipzig
+* [Notes](https://github.com/miku/runlocalai)
+
+![](images/screenshot-2026-04-24-093708-hf-qwen36-gguf-395.png)
+
