@@ -57,6 +57,7 @@ of a few things, in rough chronological order (with
 * [Open Models for AI applications (data, ai)](https://github.com/miku/workshops?tab=readme-ov-file#open-models-for-ai-applications)
 * [Writing a simple agent in Go (go, ai)](https://github.com/miku/workshops?tab=readme-ov-file#writing-a-simple-agent-in-go)
 * [Run local AI (ai)](https://github.com/miku/workshops?tab=readme-ov-file#run-local-ai)
+* [Open Large Language Models for Translation (ai, data)](https://github.com/miku/workshops?tab=readme-ov-file#open-large-language-models-for-translation)
 
 
 ## Cloning isn't just for sheeps and galactic empires (git)
@@ -446,3 +447,9 @@ and [parallel](https://github.com/miku/parallel)
 
 ![](images/screenshot-2026-04-24-093708-hf-qwen36-gguf-395.png)
 
+## Open Large Language Models for Translation
+
+* 2026-05-19, 11:15, presentation for [IALT-04-TLG-2004](https://github.com/miku/ul-ialt-04-tlg-2004) at Leipzig University
+* [Notes](https://github.com/miku/ul-ialt-04-tlg-2004)
+
+![](images/screenshot-2026-05-18-220355-hf-tag-translation.png)
